@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",   // Redirige toutes les routes
-      "destination": "/"   // Vers la page d'accueil où React gère les routes
+      "source": "/(.*)",
+      "destination": "/" 
     }
   ]
 }
