@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 import Home from './pages/Home';
 import List from './pages/List';
-import Qrcode from './pages/Qrcode'; // Correction du nom du composant
 import Spinner from './composants/Spinner';
 import Error from './pages/Errorpage';
 
@@ -30,7 +29,6 @@ const App = () => {
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/list" element={<List />} />
-                <Route path="/qr_code" element={<Qrcode />} />
                 <Route path="*" element={<Error />} /> {/* Route catch-all pour les pages non trouvées */}
               </Routes>
             </main>

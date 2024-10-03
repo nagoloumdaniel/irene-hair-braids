@@ -8,7 +8,7 @@ function Footer() {
           <div class="max-w-3xl mx-auto">
             <a href="/" className="flex justify-center items-center whitespace-nowrap text-2xl font-bold">
               <span className="mr-2 w-16">
-                <img src="../../public/ddc.png" alt="" />
+                <img src="/ddc.png" alt="" />
               </span>
               Irène's Hair Braids
             </a>

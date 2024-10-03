@@ -37,10 +37,10 @@ function Listing() {
           >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/1.jpg"
+                src="/Hairstyle/1.jpg"
                 alt="Passion Twist"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/1.jpg')}
+                onClick={() => openModal('/Hairstyle/1.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">
@@ -80,10 +80,10 @@ function Listing() {
             >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/4.jpg"
+                src="/Hairstyle/4.jpg"
                 alt="Box Braids"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/4.jpg')}
+                onClick={() => openModal('/Hairstyle/4.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">
@@ -123,10 +123,10 @@ function Listing() {
           >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/13.jpg"
+                src="/Hairstyle/13.jpg"
                 alt="Cornrows"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/13.jpg')}
+                onClick={() => openModal('/Hairstyle/13.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">
@@ -166,10 +166,10 @@ function Listing() {
             >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/11.jpg"
+                src="/Hairstyle/11.jpg"
                 alt="Knotless Braids"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/11.jpg')}
+                onClick={() => openModal('/Hairstyle/11.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">
@@ -209,10 +209,10 @@ function Listing() {
             >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/14.jpg"
+                src="/Hairstyle/14.jpg"
                 alt="Microlocs"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/14.jpg')}
+                onClick={() => openModal('/Hairstyle/14.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">
@@ -252,10 +252,10 @@ function Listing() {
             >
             <div className="w-full max-w-sm aspect-square">
               <img
-                src="../../public/Hairstyle/6.jpg"
+                src="/Hairstyle/6.jpg"
                 alt="Medium Braids"
                 className="w-full h-full rounded-xl object-cover cursor-pointer"
-                onClick={() => openModal('../../public/Hairstyle/6.jpg')}
+                onClick={() => openModal('/Hairstyle/6.jpg')}
               />
             </div>
             <div className="mt-5 flex items-center justify-between">

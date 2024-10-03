@@ -5,8 +5,8 @@ const Navbar = () => {
     <header className="fixed top-0 left-0 w-full z-50 backdrop-blur-lg bg-white/30 shadow-lg text-slate-700 px-4 py-6 lg:px-8 lg:py-6">
       <div className="container mx-auto flex flex-col lg:flex-row lg:items-center">
         <a href="/" className="flex items-center whitespace-nowrap text-2xl font-black">
-          <span className="top-0 my-0 py-0 mr-2 w-16">
-            <img src="../../public/ddc.png" alt="" />
+          <span className="top-0 my-0 py-0 mr-2 w-12">
+            <img src="/ddc.png" alt="" />
           </span>
           Irène's Hair Braids
         </a>

@@ -66,72 +66,72 @@ const InfiniteScrollAnimation = () => {
       >
         <div className="scroller__inner flex flex-wrap gap-4 p-4">
         <img
-            src="../../public/Hairstyle/1.jpg"
+            src="/Hairstyle/1.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover "
           />
           <img
-            src="../../public/Hairstyle/2.jpg"
+            src="/Hairstyle/2.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/3.jpg"
+            src="/Hairstyle/3.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/4.jpg"
+            src="/Hairstyle/4.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/5.jpg"
+            src="/Hairstyle/5.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/6.jpg"
+            src="/Hairstyle/6.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/7.jpg"
+            src="/Hairstyle/7.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/8.jpg"
+            src="/Hairstyle/8.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/9.jpg"
+            src="/Hairstyle/9.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/10.jpg"
+            src="/Hairstyle/10.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/11.jpg"
+            src="/Hairstyle/11.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/12.jpg"
+            src="/Hairstyle/12.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/13.jpg"
+            src="/Hairstyle/13.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
           <img
-            src="../../public/Hairstyle/14.jpg"
+            src="/Hairstyle/14.jpg"
             alt=""
             className="w-40 h-40 rounded-lg shadow-lg object-cover"
           />
